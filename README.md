@@ -1,2 +1,3 @@
-# stein
-New ways to read Gertrude Stein
+# Reading Machine
+
+This project explroes new ways to read Gertrude Stein's "unreadable masterpiece" The Making of Americans.
